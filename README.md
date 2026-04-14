@@ -1,4 +1,4 @@
-# README.md## Full Stack Developer | Software Engineer | Tech Enthusiast
+##Full Stack Developer | Software Engineer | Tech Enthusiast
 
 🚀 Building innovative web and mobile solutions for 3+ years
 
